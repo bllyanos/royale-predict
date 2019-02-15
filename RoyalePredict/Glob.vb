@@ -1,0 +1,3 @@
+﻿Public Class Glob
+    Public Shared Property API_KEY As String = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjMyOSwiaWRlbiI6IjIxMjU0MzkwNjkyNjAzNDk0NCIsIm1kIjp7InVzZXJuYW1lIjoiYmxseWFub3MiLCJrZXlWZXJzaW9uIjozLCJkaXNjcmltaW5hdG9yIjoiNjUxMCJ9LCJ0cyI6MTU1MDIxNDIxMjQwNn0.-t5Awv8Y_qZ5uHIzitJM0I7SNJoeFIsNZVucMBO5DTQ"
+End Class
